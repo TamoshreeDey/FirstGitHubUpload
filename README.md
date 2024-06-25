@@ -1,2 +1,3 @@
 # FirstGitHubUpload
 Basic Front End and 10% backend stuff...
+I have been learning Web Development from youtube. Amongst those lectures I also found some projects. I tried solving those. Since there are my first set of projects I needed help. The codes are somewhat clumsy. But that is good because it will help me see how much I have improved!!
